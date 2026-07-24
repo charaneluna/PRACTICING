@@ -7,6 +7,10 @@
 # Output
 # Print one integer: the minimum total cost.
 
+
+
+# average 
+
 def stick():
     res=0
     n = int(input()) # nbr of sticks
@@ -22,8 +26,11 @@ def stick():
         else :
             res+= ideal - element  
     return ideal
-# print(stick())
+print(stick())
 
+
+
+# median
 
 def stick1():
     res=0

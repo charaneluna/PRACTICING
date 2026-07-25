@@ -35,7 +35,7 @@ def threeSum(l):
     return ans
 
 
-# the better approach is to set the first number and thenmake two pointers go through the
+# the better approach is to set the first number and then make two pointers go through the
 # sorted list and check the total
 
 
